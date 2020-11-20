@@ -12,11 +12,8 @@ import java.util.Scanner;
  * @author Diego
  */
 public class Operacion {
-<<<<<<< .merge_file_a05080
-    ///aSDADASFSFADFAFA
-    //ASFAFAS
-=======
-    
+
+    //asdadasda
     public static float restarNumeros() {
         System.out.println("RESTA DE DOS NUMEROS");
         float numero1, numero2;
@@ -29,5 +26,4 @@ public class Operacion {
         return numero1 - numero2;
     } 
 
->>>>>>> .merge_file_a18316
 }
